@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Soren779
-- 👀 I’m interested in Music and Guitar
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me ...
